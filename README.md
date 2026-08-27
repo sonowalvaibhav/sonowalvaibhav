@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Vaibhav Sonowal
 
-🌟 A **final-year B.Tech student at IIT Guwahati** and an aspiring **Software Developer + Data Science / AI/ML enthusiast**.
+🌟 A **final-year B.Tech student at IIT Guwahati** and an aspiring **Software Developer and Data Science enthusiast**.
 
 I enjoy building things across software development and AI — from **full-stack web applications and backend systems** to exploring **Machine Learning, Computer Vision, and Generative AI**. Alongside development, I actively practice **DSA and Competitive Programming** in C++.
 
