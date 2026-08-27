@@ -24,7 +24,7 @@ I enjoy building things across software development and AI — from **full-stack
 * 🏆 **Codeforces Max Rating: 1318**
 * 🔥 **LeetCode Max Rating: 1550**
 * 📈 Solved **650+ problems** across Codeforces, LeetCode and CSES
-* 🕺 Outside of code, I love **dance and choreography** and serve as the **Secretary of Cadence, IIT Guwahati's Dance Club**
+* 🕺 Outside of code, I love **dance and choreography** and served as the **Secretary of Cadence, IIT Guwahati's Dance Club**
 
 ---
 
@@ -41,7 +41,6 @@ I enjoy building things across software development and AI — from **full-stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
 
 ### ⚙️ Backend & APIs
 
@@ -67,18 +66,6 @@ I enjoy building things across software development and AI — from **full-stack
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-
----
-
-## 📌 Competitive Programming
-
-* 🏆 **Codeforces Max Rating:** 1318
-* 🧩 **LeetCode Max Rating:** 1550
-* 💻 Solved **650+ problems** across **Codeforces, LeetCode and CSES**
-* 🚀 Regularly practicing **Data Structures & Algorithms**
-* 📚 Particularly interested in **Graphs, Dynamic Programming and Greedy Algorithms**
-
-> *Always trying to become a little better at problem solving — one problem at a time.* 🚀
 
 ---
 
@@ -116,7 +103,7 @@ I'm currently focused on growing across both **Software Development** and **AI/M
 
 * 🚀 Advanced **Data Structures & Algorithms**
 * 💻 **Full-Stack Development**
-* ⚙️ Backend Development and API Design
+* ⚙️ Backend Development
 * 🤖 **Machine Learning & Deep Learning**
 * 👁️ **Computer Vision**
 * 🧠 **Generative AI, LangChain and LangGraph**
@@ -128,21 +115,11 @@ I'm currently focused on growing across both **Software Development** and **AI/M
 
 When I'm not coding, you'll probably find me dancing! 🕺
 
-I am actively involved with **Cadence — the Dance and Choreography Club of IIT Guwahati**, where I serve as **Secretary**.
+I am actively involved with **Cadence — the Dance and Choreography Club of IIT Guwahati**, where I served as **Secretary**.
 
 * 🕺 **Secretary, Cadence (Dance Club), IIT Guwahati**
-* 🏆 Part of the **Inter IIT 8.0** dance team
+* 🏆 led a team of 30+ members in the **Inter IIT 8.0** representing **IITG**
 * 🎭 Passionate about dance, choreography, and performing
-
-I enjoy balancing the logical side of problem-solving with the creativity of dance.
-
----
-
-## 📈 GitHub Stats
-
-![Vaibhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonowalvaibhav\&show_icons=true\&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonowalvaibhav\&layout=compact\&theme=radical)
 
 ---
 
