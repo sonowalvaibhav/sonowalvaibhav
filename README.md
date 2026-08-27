@@ -103,7 +103,6 @@ I'm currently focused on growing across both **Software Development** and **AI/M
 
 * 🚀 Advanced **Data Structures & Algorithms**
 * 💻 **Full-Stack Development**
-* ⚙️ Backend Development
 * 🤖 **Machine Learning & Deep Learning**
 * 👁️ **Computer Vision**
 * 🧠 **Generative AI, LangChain and LangGraph**
